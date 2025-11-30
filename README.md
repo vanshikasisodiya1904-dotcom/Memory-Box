@@ -47,8 +47,11 @@ MemoryBox/
 ```
 
 👩‍💻 Team 
-Vanshika Sisodiya : 24100BTCSDSI17493
-Anushka Kale : 24100BTCSDSI17464
+| Name                  | Roll No           |
+| --------------------- | ----------------- |
+| **Vanshika Sisodiya** | 24100BTCSDSI17493 |
+| **Anushka Kale**      | 24100BTCSDSI17464 |
+
 ---
 
 
